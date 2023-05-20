@@ -1,1 +1,2 @@
- I am at the Gitworkshop right now. Today's weather is good 
+I am at the Gitworkshop right now. Today's weather is good
+Refer to Techlabs cheatsheet for git101 
