@@ -1,1 +1,2 @@
-I am at the Gitworkshop right now. 
+I am at the Gitworkshop right now.
+Refer to Techlabs cheatsheet for git101 
